@@ -26,20 +26,25 @@ h2 {
 	padding-top: 1.5em;
 }
 
+
 .dragon-div {
 	background-color: #e4c22a;
+	color: black;
 }
 
 .goat-div {
 	background-color: #222222;
+	color: white;
 }
 
 .rooster-div {
 	background-color: #e7001d;
+	color: black;
 }
 
 .ox-div {
 	background-color: #e4c22a;
+	color: black;
 }
 
 
