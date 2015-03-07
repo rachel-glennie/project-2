@@ -6,6 +6,10 @@ html {
 	box-sizing: inherit;
 }
 
+img {
+	width:100%;
+}
+
 body {
 	margin: 0em;
 	font-family: 'Noto Sans', sans-serif;
