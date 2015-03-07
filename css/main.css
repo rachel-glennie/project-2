@@ -14,3 +14,7 @@ body {
 	margin: 0em;
 	font-family: 'Noto Sans', sans-serif;
 }
+
+div {
+	text-decoration: none;
+}
