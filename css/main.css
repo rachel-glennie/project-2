@@ -17,31 +17,31 @@ body {
 
 header {
 	background-color: #e7001d;
-	color: white;
-	font-weight: 700;
+	position: relative;
 	text-align: center;
+	padding: 20px;
 }
 
 header img {
-	z-index: 0;
-	width: 33.33333333%;
-	margin: 0.75em;
+	width: 125px;
+	margin: auto;
 }
 
 header h1 {
-	z-index: 2;
+	color: white;
+	position: absolute;
+	font-weight: 700;
+	text-align: center;
 	position: relative;
-	bottom: 110px;
 	margin: 0em;
 	font-size: 1em;
 	text-shadow: #222 2px 2px 3px
 }
 
 .header-symbols {
-	z-index: 2;
-	bottom: 110px;
+	color: white;
 	position: relative;
-	margin: 0em;
+	font-weight: 700;
 	font-size: 2.5em;
 	text-shadow: #222 2px 2px 3px
 }
@@ -52,25 +52,35 @@ h2 {
 	padding-top: 1.5em;
 }
 
+nav {
+	background-color: #222222;
+	color: white;
+}
+
+
 
 .dragon-div {
 	background-color: #e4c22a;
 	color: black;
+	margin: 0em;
 }
 
 .goat-div {
 	background-color: #222222;
 	color: white;
+	margin: 0em;
 }
 
 .rooster-div {
 	background-color: #e7001d;
 	color: white;
+	margin: 0em;
 }
 
 .ox-div {
 	background-color: #e4c22a;
 	color: black;
+	margin: 0em;
 }
 
 
@@ -81,5 +91,6 @@ footer {
 	color: white;
 	text-decoration: underline;
 	padding: 1em;
+	margin: 0em;
 	text-align: center;
 }
