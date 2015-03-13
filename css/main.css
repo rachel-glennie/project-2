@@ -62,19 +62,21 @@ header h1 {
 
 nav {
 	background-color: #222222;
+	margin: 0em;
 }
 
 nav ol {
 	list-style-type: none;
 	margin: 0em;
+	padding: 0em;
 }
 
 nav li{
 	display: inline-block;
 	border: 1px solid black;
-	padding: 0.5em 0em;
+	padding: 0.5em 0.6em;
 	width: 50%;
-	margin: 0.7em 0em;
+	margin: 0em;
 }
 
 .shengxiao {
@@ -117,6 +119,7 @@ h2 {
 	margin: 0em;
 	text-align: center;
 	font-style: italic;
+	padding: 0.5em;
 }
 
 .goat-div {
@@ -125,6 +128,7 @@ h2 {
 	margin: 0em;
 	text-align: center;
 	font-style: italic;
+	padding: 0.5em;
 }
 
 .rooster-div {
@@ -133,6 +137,7 @@ h2 {
 	margin: 0em;
 	text-align: center;
 	font-style: italic;
+	padding: 0.5em;
 }
 
 .ox-div {
@@ -141,20 +146,22 @@ h2 {
 	margin: 0em;
 	text-align: center;
 	font-style: italic;
-}
-
-div {
 	padding: 0.5em;
 }
+
+
 
 div img {
 	width: 140px;
 	display: inline-block;
 }
 
-div p {
-
+.images {
+	width: 50%;
 }
+
+
+
 
 footer {
 	background-color: #222222;
