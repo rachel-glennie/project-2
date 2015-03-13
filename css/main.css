@@ -77,56 +77,84 @@ nav li{
 	margin: 0.7em 0em;
 }
 
-
-
 .shengxiao {
+	padding: 0em;
+}
+
+.shengxiao p {
+	padding: 0em 0.5em;
+}
+
+.shengxiao img {
+	width: 100%;
+	padding: 0em;
+}
+
+.shengxiao-title {
 	color: white;
 	text-shadow: #222 2px 2px 3px;
 	font-size: 2em;
 	margin: 0em;
 	width: 100%;
 	padding: 0em;
+	top: 550px;
 	text-align: center;
 	position: absolute;
 	font-style: italic;
 }
 
 
+
+
 h2 {
 	text-align: center;
 	font-size: 1.5em;
-	padding-top: 1.5em;
 }
 
 .dragon-div {
 	background-color: #e4c22a;
 	color: black;
 	margin: 0em;
+	text-align: center;
+	font-style: italic;
 }
 
 .goat-div {
 	background-color: #222222;
 	color: white;
 	margin: 0em;
+	text-align: center;
+	font-style: italic;
 }
 
 .rooster-div {
 	background-color: #e7001d;
 	color: white;
 	margin: 0em;
+	text-align: center;
+	font-style: italic;
 }
 
 .ox-div {
 	background-color: #e4c22a;
 	color: black;
 	margin: 0em;
+	text-align: center;
+	font-style: italic;
+}
+
+div {
+	padding: 0.5em;
 }
 
 div img {
-	width: 50%;
+	width: 140px;
 	display: inline-block;
 }
 
+div p {
+
+}
 
 footer {
 	background-color: #222222;
