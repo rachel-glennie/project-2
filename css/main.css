@@ -29,10 +29,12 @@ header img {
 
 header h1 {
 	color: white;
+	top: 115px;
+	right: 2px;
+	width: 100%;
 	position: absolute;
 	font-weight: 700;
-	text-align: center;
-	position: relative;
+	position: absolute;
 	margin: 0em;
 	font-size: 1em;
 	text-shadow: #222 2px 2px 3px
@@ -40,16 +42,14 @@ header h1 {
 
 .header-symbols {
 	color: white;
-	position: relative;
+	right: 2px;
+	top: 25px;
+	width: 100%;
+	margin: 0em;
+	position: absolute;
 	font-weight: 700;
-	font-size: 2.5em;
+	font-size: 4em;
 	text-shadow: #222 2px 2px 3px
-}
-
-h2 {
-	text-align: center;
-	font-size: 1.5em;
-	padding-top: 1.5em;
 }
 
 nav {
@@ -57,7 +57,28 @@ nav {
 	color: white;
 }
 
+nav ol {
+	list-style-type: none;
+	margin: 0em;
+	padding: 0.5em;
+}
 
+nav li{
+	display: inline-block;
+	width: 50%;
+	margin: 0.7em 0em;
+}
+
+
+
+
+
+
+h2 {
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 1.5em;
+}
 
 .dragon-div {
 	background-color: #e4c22a;
