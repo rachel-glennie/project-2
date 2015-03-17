@@ -71,6 +71,11 @@ nav ol {
 	padding: 0em;
 }
 
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
 nav li{
 	display: inline-block;
 	border: 1px solid black;
@@ -100,11 +105,10 @@ nav li{
 	width: 100%;
 	padding: 0em;
 	top: 550px;
-	text-align: center;
 	position: absolute;
+	text-align: center;
 	font-style: italic;
 }
-
 
 
 
@@ -149,19 +153,9 @@ h2 {
 	padding: 0.5em;
 }
 
-
-
 div img {
-	width: 140px;
-	display: inline-block;
+	width: 40%
 }
-
-.images {
-	width: 50%;
-}
-
-
-
 
 footer {
 	background-color: #222222;
@@ -170,4 +164,8 @@ footer {
 	padding: 1em;
 	margin: 0em;
 	text-align: center;
+}
+
+footer a {
+	color: white;
 }
