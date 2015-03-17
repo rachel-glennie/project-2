@@ -36,7 +36,7 @@ header h1 {
 	position: absolute;
 	margin: 0em;
 	font-size: 1em;
-	text-shadow: #222 2px 2px 3px
+	text-shadow: #222 2px 2px 3px;
 }
 
 .header-symbols {
@@ -48,7 +48,7 @@ header h1 {
 	position: absolute;
 	font-weight: 700;
 	font-size: 4em;
-	text-shadow: #222 2px 2px 3px
+	text-shadow: #222 2px 2px 3px;
 }
 
 .left {
@@ -156,7 +156,7 @@ h2 {
 }
 
 div img {
-	width: 40%
+	width: 40%;
 }
 
 footer {
